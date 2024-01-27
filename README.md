@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vibhor003
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on something special
+- 📫 How to reach me https://www.instagram.com/v.ibhor_/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
